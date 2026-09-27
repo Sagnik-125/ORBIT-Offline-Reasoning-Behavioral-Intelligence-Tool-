@@ -1,2 +1,10 @@
-# ORBIT-Offline-Reasoning-Behavioral-Intelligence-Tool-
-A local AI agent designed to simplify desktop navigation and computer interaction through natural language.
+# ORBIT
+
+### Local AI Desktop Agent
+
+ORBIT is a locally running AI assistant that allows users to
+interact with their computer using natural language.
+
+It uses a local LLM for intent understanding and reasoning,
+while Python-based tools handle controlled interactions with
+the Windows environment.
